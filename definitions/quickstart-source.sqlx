@@ -3,7 +3,7 @@ config {
 }
 
 SELECT
-  "apples" AS fruit,
+  "PINEAPPLE" AS fruit,
   2 AS count
 UNION ALL
 SELECT
