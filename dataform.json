@@ -2,7 +2,7 @@
   "defaultSchema": "dataform",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
-  "defaultDatabase": "poc-looker-9198",
+  "defaultDatabase": "non-rapidlabs-5053",
   "defaultLocation": "australia-southeast1"
 }
     
